@@ -35,13 +35,22 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 ## Beispiele
 
+Als Beispeil für LowFid und HighFid haben wir uns die Website von MErcedes ausgesucht und diese nachgebaut.
+
 **Low-Fidelity-Prototpy**
 
 ![LowFid](task-2-1-img-3.jpg)
 
+[Link zur LowFid-Version](https://www.figma.com/proto/VRBapo5v9hrupV3JxeBxv4/Task-02---Mercedes---low-fid?node-id=1%3A2&viewport=527%2C95%2C0.1357787549495697&scaling=min-zoom)
+
 **High-Fidelity-Prototpy**
 
 ![HighFid]()
+
+Bei dieser Version wurde nur ein Teil der Mercedes-Website nachgebaut, sodass der Funktionsumfang von Figma dargestellt werden kann.
+
+[Link zur HighFid-Version](https://www.figma.com/proto/5qamzk3hJ6mo0P3umbrSkp/Task-02-Mercedes-high-fid?node-id=0%3A1)
+
 
 
 ## Einschränkungen
